@@ -1,0 +1,11 @@
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/bin/Debug/netcoreapp2.2/numbers-quickstart.deps.json
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/bin/Debug/netcoreapp2.2/numbers-quickstart.runtimeconfig.json
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/bin/Debug/netcoreapp2.2/numbers-quickstart.runtimeconfig.dev.json
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/bin/Debug/netcoreapp2.2/numbers-quickstart.dll
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/bin/Debug/netcoreapp2.2/numbers-quickstart.pdb
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/obj/Debug/netcoreapp2.2/numbers-quickstart.csprojAssemblyReference.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/obj/Debug/netcoreapp2.2/numbers-quickstart.csproj.CoreCompileInputs.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/obj/Debug/netcoreapp2.2/numbers-quickstart.AssemblyInfoInputs.cache
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/obj/Debug/netcoreapp2.2/numbers-quickstart.AssemblyInfo.cs
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/obj/Debug/netcoreapp2.2/numbers-quickstart.dll
+/Users/francisco/Google Drive/Bootcamp/Practica/numbers-quickstart/obj/Debug/netcoreapp2.2/numbers-quickstart.pdb
